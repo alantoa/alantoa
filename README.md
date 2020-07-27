@@ -1,5 +1,8 @@
 ### Hi there 👋
+I'm Toa, Front-End.
 
+
+[![Toa's github stats](https://github-readme-stats.vercel.app/api?username=MonsterAnan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MonsterAnan/MonsterAnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
