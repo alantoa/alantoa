@@ -1,12 +1,9 @@
-I'm Toa, Front-End.
+### 🖐️ Hi, there, I'm Toa, Front-End.
 
-#### :heart: I'm focusing on:
+- ✨ I'm now focusing on React Native, working on react-native animated/gesture performance/fps problems. 
 
-- React / React Native
+- ⚡️ Using `react-native-reanimated` and `react-native-gueture-handle` refactoring or writing basic components of `react-native`.  ( e.g., [ `react-native-awesome-slider` , `react-native-video-player` , ...and more ] )
 
+#### 💻 Main programming languages: 
 
-#### :computer: Programming languages:
-
-- Typescript
-- Node.js
-- Python
+- Typescript/Node.js/Python
