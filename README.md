@@ -1,4 +1,4 @@
-### 🖐️ Hi, there, I'm Toa, Front-End.
+### 🖐️ Hi, there, I'm Toa, FE developer.
 
 - ✨ I'm now focusing on React Native, working on react-native animated/gesture performance problems. 
 
