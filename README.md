@@ -1,6 +1,4 @@
-### 🖐️ Hi, there
-FE developer, enjoy coding, passionate about open source, focus on react, active in the react native community.
-
-#### 💻 Main programming languages: 
-
-- Typescript/Node.js/Python
+<div align="center">
+  <img src="./assets/banner.png" width="100%" />
+  <br/> 
+</div>
